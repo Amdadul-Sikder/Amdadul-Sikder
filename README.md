@@ -11,7 +11,7 @@ I consider myself as a fully dedicated and hard worker person as well as punctua
 
 Skills: REACT / JS / HTML / CSS / MONGODB / FIREBASE
 
-- 🔭 I’m currently working on React 
+- 🔭 I’m currently working on React Project 
 - 🌱 I’m currently learning Frontend Development 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Remote Job 
